@@ -1,0 +1,24 @@
+/* Customize the appearance of your search engine */
+.search-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#search-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#search-button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#results-container {
+    margin-top: 20px;
+}
